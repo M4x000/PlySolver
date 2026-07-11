@@ -1,0 +1,6 @@
+# Normalize line endings to LF inside the repository
+* text=auto eol=lf
+
+# Binary assets (never touched)
+*.png binary
+*.pdf binary

@@ -1,0 +1,15 @@
+# MATLAB autosave / temp
+*.asv
+*.m~
+*.autosave
+*.slxc
+slprj/
+
+# MATLAB session
+*.mat
+!tests/**/*.mat
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
